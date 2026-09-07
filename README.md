@@ -1,4 +1,4 @@
-Project 2: Vulnerability Assessment and Penetration Testing (VAPT) on Altoro Mutual (Major Project)
+Major Project : Vulnerability Assessment and Penetration Testing (VAPT) on Altoro Mutual (Major Project)
 
 
 Overview
