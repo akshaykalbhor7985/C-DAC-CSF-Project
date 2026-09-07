@@ -2,7 +2,7 @@ Major Project : Vulnerability Assessment and Penetration Testing (VAPT) on Altor
 
 
 Overview
-A security assessment and penetration test conducted against the Altoro Mutual web banking application (testfire.net). The project identifies critical application-level logic flaws, injection vectors, network exposure, and SSL/TLS configuration weaknesses using automated and manual security testing methodologies.
+- A security assessment and penetration test conducted against the Altoro Mutual web banking application (testfire.net). The project identifies critical application-level logic flaws, injection vectors, network exposure, and SSL/TLS configuration weaknesses using automated and manual security testing methodologies.
 
 
 Key Findings & Vulnerability Breakdown
