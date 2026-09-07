@@ -1,11 +1,10 @@
-Major Project : Vulnerability Assessment and Penetration Testing (VAPT) on Altoro Mutual (Major Project)
+***Major Project : Vulnerability Assessment and Penetration Testing (VAPT) on Altoro Mutual (Major Project)***
 
-
-Overview
+**Overview**
 - A security assessment and penetration test conducted against the Altoro Mutual web banking application (testfire.net). The project identifies critical application-level logic flaws, injection vectors, network exposure, and SSL/TLS configuration weaknesses using automated and manual security testing methodologies.
 
 
-Key Findings & Vulnerability Breakdown
+**Key Findings & Vulnerability Breakdown**
 1. SQL Injection & Auth Bypass
 Vector / Target: Login Functionality (/login.jsp)
 Impact: Critical — Bypassed authentication mechanisms to gain unauthorized access to privileged banking features.
